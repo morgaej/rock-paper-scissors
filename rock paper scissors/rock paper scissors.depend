@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1527737122 source:c:\users\justice\documents\random coding stuff\rock paper scissors\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
